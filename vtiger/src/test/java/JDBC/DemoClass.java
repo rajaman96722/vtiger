@@ -7,6 +7,7 @@ public class DemoClass {
 
 		System.out.println("this is main method1");
 		System.out.println("this is main method2");
+		System.out.println("this is main method3");
 			
 		}
 	}
